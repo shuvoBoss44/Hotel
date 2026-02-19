@@ -11,6 +11,10 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link rel="preconnect" href="https://images.unsplash.com" crossOrigin="" />
+        <link rel="dns-prefetch" href="https://images.unsplash.com" />
+      </head>
       <body className="antialiased font-sans" suppressHydrationWarning>
         <Providers>
           <div className="relative min-h-screen overflow-x-clip bg-[var(--color-bg)] text-[var(--color-text)]">

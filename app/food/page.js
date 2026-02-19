@@ -22,6 +22,8 @@ export default function FoodPage() {
           src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=2200&q=80"
           fallbackSrc="/images/fallback/food.svg"
           alt="Fine dining restaurant"
+          priority
+          sizes="100vw"
           className="absolute inset-0 h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#1d140faa] via-[#2f261daa] to-[var(--color-bg)]" />

@@ -43,6 +43,8 @@ export default function PackagesPage() {
           src={heroImage}
           fallbackSrc="/images/fallback/resort.svg"
           alt={messages.packages.hero.title}
+          priority
+          sizes="100vw"
           className="absolute inset-0 h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#132338aa] via-[#0d1726cc] to-[var(--color-bg)]" />

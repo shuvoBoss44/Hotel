@@ -29,6 +29,8 @@ export default function HomePage() {
           src="https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=2200&q=80"
           fallbackSrc="/images/fallback/resort.svg"
           alt="Luxury resort skyline"
+          priority
+          sizes="100vw"
           className="absolute inset-0 h-full w-full object-cover"
         />
         <div className="hero-grid absolute inset-0" />

@@ -19,6 +19,8 @@ export default function ContactPage() {
           src={heroImage}
           fallbackSrc="/images/fallback/resort-walkway.svg"
           alt={messages.contact.hero.title}
+          priority
+          sizes="100vw"
           className="absolute inset-0 h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#0f172ac2] via-[#111827cf] to-[var(--color-bg)]" />

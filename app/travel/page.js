@@ -32,6 +32,8 @@ export default function TravelPage() {
           src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=2200&q=80"
           fallbackSrc="/images/fallback/travel.svg"
           alt="Travel destinations"
+          priority
+          sizes="100vw"
           className="absolute inset-0 h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#1d140fb3] via-[#2d2a20b0] to-[var(--color-bg)]" />
