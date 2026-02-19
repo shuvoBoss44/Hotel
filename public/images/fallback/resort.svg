@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Resort view placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f6f5f" />
+      <stop offset="100%" stop-color="#b56b3c" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <circle cx="1220" cy="220" r="120" fill="rgba(255,255,255,0.28)" />
+  <path d="M0 650 C280 560 420 780 700 650 C980 520 1200 720 1600 620 L1600 900 L0 900 Z" fill="rgba(255,255,255,0.23)"/>
+  <path d="M0 720 C280 620 500 860 840 720 C1130 600 1320 760 1600 700 L1600 900 L0 900 Z" fill="rgba(0,0,0,0.16)"/>
+  <text x="70" y="120" fill="white" font-family="Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="3">KAPTAI CREST RESORT</text>
+  <text x="70" y="175" fill="rgba(255,255,255,0.86)" font-family="Arial, sans-serif" font-size="26">Rangamati, Bangladesh</text>
+</svg>

@@ -1,0 +1,471 @@
+{
+  "site": {
+    "name": "Kaptai Crest Resort",
+    "tagline": "A premium hill-lake retreat in Rangamati, Bangladesh",
+    "phone": "+880-1712-000000",
+    "location": "Kaptai Lake Shore, Reserve Bazar, Rangamati, Bangladesh"
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "food": "Food",
+    "travel": "Travel",
+    "activities": "Activities",
+    "packages": "Packages",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "stayMenu": "Stay",
+    "exploreMenu": "Explore",
+    "callToReserve": "Call to Reserve",
+    "callToBook": "Call to Book",
+    "callToBookPackage": "Call to Book Package"
+  },
+  "labels": {
+    "startingAt": "Starting at",
+    "nightly": "per night",
+    "availableToday": "Available Today",
+    "availableNow": "Available Now",
+    "limited": "Limited Slots",
+    "weekendOnly": "Weekend Only",
+    "popular": "Most Popular",
+    "signature": "Signature",
+    "new": "New"
+  },
+  "common": {
+    "astraSignature": "Astra Signature",
+    "curatedMoments": "Curated Moments",
+    "trendingRouteboard": "Trending Routeboard",
+    "localDiscovery": "Local Discovery",
+    "privateGuidedDesk": "Private guided travel desk",
+    "privateGuidedDeskDesc": "Reception can arrange curated local routes with premium transport and activity combinations.",
+    "culinarySignature": "Culinary Signature",
+    "menuPreview": "Menu Preview",
+    "price": "Price",
+    "totalBundledPrice": "Total Bundled Price",
+    "close": "Close",
+    "prev": "Prev",
+    "next": "Next"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Rangamati Hill Lake Escape",
+      "title": "Experience Rangamati From a Luxury Lakefront Resort",
+      "description": "Kaptai Crest blends hill-view suites, Kaptai Lake adventures, and curated cultural experiences inspired by Rangamati.",
+      "primaryCta": "Call to Reserve",
+      "secondaryCta": "Explore Travel"
+    },
+    "metrics": [
+      {
+        "value": "58",
+        "label": "Lakeview Suites"
+      },
+      {
+        "value": "24/7",
+        "label": "Guest Reception"
+      },
+      {
+        "value": "12",
+        "label": "Rangamati Attractions"
+      }
+    ],
+    "featuredSuites": {
+      "title": "Featured Suites",
+      "description": "Refined room concepts built for comfort, privacy, and uninterrupted views.",
+      "items": [
+        {
+          "name": "Kaptai Panorama Suite",
+          "description": "Private balcony with uninterrupted views of Kaptai Lake and surrounding green hills.",
+          "price": "Tk 420",
+          "amenities": [
+            "King bed",
+            "Lake-facing lounge",
+            "Private soaking tub"
+          ]
+        },
+        {
+          "name": "Shuvolong Cliff Villa",
+          "description": "Two-level villa with open deck, ideal for family stays and private gatherings.",
+          "price": "Tk 690",
+          "amenities": [
+            "2 bedrooms",
+            "Hill-view terrace",
+            "Premium minibar"
+          ]
+        },
+        {
+          "name": "Jhulonto Bridge Residence",
+          "description": "Signature suite inspired by Rangamati architecture with personalized butler support.",
+          "price": "Tk 810",
+          "amenities": [
+            "In-room spa setup",
+            "Dedicated butler",
+            "Chef-on-request"
+          ]
+        }
+      ]
+    },
+    "topActivities": {
+      "title": "Top Activities",
+      "description": "Guest-favorite experiences available daily across the resort zone.",
+      "items": [
+        {
+          "name": "Sunset Kayaking",
+          "description": "Guided kayaking routes across calm Kaptai Lake channels during golden hour."
+        },
+        {
+          "name": "Lake Swimming",
+          "description": "Controlled swim zones and resort pool decks with hill-lake views."
+        },
+        {
+          "name": "Hill Camping",
+          "description": "Overnight camp setup on scenic hill points near Rangamati viewpoints."
+        }
+      ]
+    }
+  },
+  "rooms": {
+    "hero": {
+      "eyebrow": "Stay Collection",
+      "title": "Rooms & Suites",
+      "description": "Choose from hill-view rooms, lakefront suites, and premium villas designed for Rangamati stays."
+    },
+    "items": [
+      {
+        "name": "Standard Room",
+        "type": "Hill & Town View",
+        "price": "Tk 220",
+        "description": "A calm space for short stays with premium bedding and smart workspace.",
+        "amenities": [
+          "Queen bed",
+          "Rain shower",
+          "Smart TV",
+          "Welcome minibar"
+        ]
+      },
+      {
+        "name": "Luxury Room",
+        "type": "Lake Partial View",
+        "price": "Tk 320",
+        "description": "Balanced layout with lounge seating and a private balcony corner.",
+        "amenities": [
+          "King bed",
+          "Balcony seating",
+          "Espresso station",
+          "Fast Wi-Fi"
+        ]
+      },
+      {
+        "name": "Premium Suite",
+        "type": "Kaptai Lakefront",
+        "price": "Tk 520",
+        "description": "Panoramic glass views with integrated living and dining setup.",
+        "amenities": [
+          "Living area",
+          "Dual vanity bath",
+          "Private concierge",
+          "Sound system"
+        ]
+      },
+      {
+        "name": "Family Villa",
+        "type": "Hillside Estate",
+        "price": "Tk 760",
+        "description": "Large multi-room villa ideal for family trips and private celebrations.",
+        "amenities": [
+          "2 master rooms",
+          "Private patio",
+          "Kitchenette",
+          "On-call buggy"
+        ]
+      },
+      {
+        "name": "Honeymoon Loft",
+        "type": "Sunset Ridge Deck",
+        "price": "Tk 640",
+        "description": "Romantic loft with curated decor and exclusive evening setup.",
+        "amenities": [
+          "Couple jacuzzi",
+          "Sunset deck",
+          "Mood lighting",
+          "In-room breakfast"
+        ]
+      },
+      {
+        "name": "Presidential Residence",
+        "type": "Rangamati Signature",
+        "price": "Tk 1,250",
+        "description": "Flagship suite with elevated service layers and private sea lounge.",
+        "amenities": [
+          "3 bedrooms",
+          "Private pool",
+          "Dedicated butler",
+          "VIP transfer"
+        ]
+      }
+    ]
+  },
+  "food": {
+    "hero": {
+      "eyebrow": "Culinary Journey",
+      "title": "Dining & Chef's Specials",
+      "description": "Enjoy hill-inspired cuisine, freshwater fish, and bamboo-cooked specials rooted in Rangamati flavors."
+    },
+    "specials": {
+      "title": "Chef's Specials",
+      "description": "Daily signature dishes curated by our executive culinary team.",
+      "items": [
+        {
+          "name": "Bamboo Chicken Platter",
+          "description": "Slow-cooked chicken in bamboo with hill herbs and smoky aroma.",
+          "price": "Tk 440"
+        },
+        {
+          "name": "Kaptai Lake Grilled Fish",
+          "description": "Fresh lake fish grilled over charcoal with citrus and local spice.",
+          "price": "Tk 390"
+        },
+        {
+          "name": "Pahari Vegetable Medley",
+          "description": "Seasonal hill vegetables tossed with sesame and mild aromatic spice.",
+          "price": "Tk 320"
+        }
+      ]
+    },
+    "menu": {
+      "title": "Resort Menu",
+      "sections": [
+        {
+          "name": "Breakfast",
+          "items": [
+            {
+              "name": "Rangamati Rice Cake Plate",
+              "description": "Traditional pitha selection with date syrup and fruits.",
+              "price": "Tk 160"
+            },
+            {
+              "name": "Hill Honey Fruit Bowl",
+              "description": "Seasonal fruits with local honey and yogurt.",
+              "price": "Tk 190"
+            }
+          ]
+        },
+        {
+          "name": "Lunch",
+          "items": [
+            {
+              "name": "Kaptai Rui Fish Curry",
+              "description": "Freshwater fish curry served with steamed rice and greens.",
+              "price": "Tk 280"
+            },
+            {
+              "name": "Bamboo Shoot Beef",
+              "description": "Slow-cooked beef with bamboo shoot and aromatic herbs.",
+              "price": "Tk 340"
+            }
+          ]
+        },
+        {
+          "name": "Dinner",
+          "items": [
+            {
+              "name": "Smoked Hill Chicken",
+              "description": "Char-smoked chicken with roasted vegetables and garlic rice.",
+              "price": "Tk 460"
+            },
+            {
+              "name": "Chakma Spiced River Prawn",
+              "description": "River prawn in mild Chakma spice blend and herb butter.",
+              "price": "Tk 410"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "travel": {
+    "hero": {
+      "eyebrow": "Rangamati Destination Desk",
+      "title": "Travel Around Rangamati",
+      "description": "Discover lake routes, waterfalls, monasteries, and cultural landmarks around Rangamati."
+    },
+    "trending": {
+      "title": "Trending Places",
+      "description": "Horizontal highlights of the most requested nearby spots.",
+      "items": [
+        {
+          "name": "Hanging Bridge (Jhulonto Setu)",
+          "distance": "12 min away",
+          "description": "Rangamati’s iconic bridge with panoramic lake photography points."
+        },
+        {
+          "name": "Shuvolong Waterfall",
+          "distance": "45 min by boat",
+          "description": "Popular waterfall route across Kaptai Lake with scenic hill backdrop."
+        },
+        {
+          "name": "Rajban Vihara",
+          "distance": "18 min away",
+          "description": "A serene Buddhist monastery known for architecture and spiritual calm."
+        },
+        {
+          "name": "Kaptai Lake Sunset Point",
+          "distance": "20 min away",
+          "description": "Golden-hour lake views and private boat cruise boarding area."
+        }
+      ]
+    },
+    "explore": {
+      "title": "Places to Explore",
+      "description": "Balanced recommendations for nature, heritage, and leisure.",
+      "items": [
+        {
+          "name": "Tribal Cultural Institute",
+          "category": "Culture",
+          "description": "Explore the heritage, crafts, and stories of indigenous communities."
+        },
+        {
+          "name": "Chakma Rajbari Area",
+          "category": "History",
+          "description": "A historically important area tied to Chakma royalty and local governance."
+        },
+        {
+          "name": "Kaptai National Park Edge",
+          "category": "Nature",
+          "description": "Forest-edge trails with hill breeze, birds, and photo stops."
+        },
+        {
+          "name": "Polwel Park",
+          "category": "Leisure",
+          "description": "Family-friendly park zone with lake viewpoints and picnic spaces."
+        },
+        {
+          "name": "Jublee Tila Viewpoint",
+          "category": "Adventure",
+          "description": "Elevated Rangamati viewpoint for sunrise and skyline photography."
+        },
+        {
+          "name": "Banarupa Local Market",
+          "category": "Local Life",
+          "description": "Local handicrafts, hill spices, and authentic daily Rangamati culture."
+        }
+      ]
+    }
+  },
+  "activities": {
+    "hero": {
+      "eyebrow": "Resort Experiences",
+      "title": "Adventure Activities",
+      "description": "Curated activity programs designed around Kaptai Lake and Rangamati hill terrain."
+    },
+    "items": [
+      {
+        "name": "Kayaking",
+        "description": "Guided kayaking on Kaptai Lake with safety support and photo stops.",
+        "price": "Tk 480",
+        "status": "Available Today"
+      },
+      {
+        "name": "Swimming",
+        "description": "Resort infinity pool and controlled lake swim zones for families.",
+        "price": "Tk 280",
+        "status": "Available Now"
+      },
+      {
+        "name": "Camping",
+        "description": "Overnight hill camping with bonfire dinner and sunrise viewpoints.",
+        "price": "Tk 950",
+        "status": "Limited Slots"
+      },
+      {
+        "name": "Swing",
+        "description": "Signature hillside swing overlooking Kaptai Lake and green valleys.",
+        "price": "Tk 220",
+        "status": "Weekend Only"
+      }
+    ]
+  },
+  "packages": {
+    "hero": {
+      "eyebrow": "Bundled Deals",
+      "title": "Resort Packages",
+      "description": "Bundled plans combining room stays, lake activities, and local Rangamati experiences."
+    },
+    "items": [
+      {
+        "name": "Lake Adventure Combo",
+        "description": "Kaptai Kayaking + Hill Camping + Bonfire Dinner",
+        "price": "Tk 1,690",
+        "availability": "Available Today",
+        "includes": [
+          "Guided lake kayaking",
+          "Overnight camp setup",
+          "Bonfire dinner for two"
+        ]
+      },
+      {
+        "name": "Rangamati Family Escape",
+        "description": "Luxury Room + Swimming + Breakfast Buffet",
+        "price": "Tk 3,990",
+        "availability": "Available Now",
+        "includes": [
+          "1-night luxury room",
+          "4 swim passes",
+          "Family breakfast buffet"
+        ]
+      },
+      {
+        "name": "Culture & Comfort Plan",
+        "description": "Honeymoon Loft + Rajban Visit + Chef Dinner",
+        "price": "Tk 5,290",
+        "availability": "Limited Slots",
+        "includes": [
+          "Loft stay",
+          "Guided cultural route",
+          "Private dinner setup"
+        ]
+      },
+      {
+        "name": "Waterfall Explorer Pack",
+        "description": "Boat Trip to Shuvolong + Premium Suite + Local Tour",
+        "price": "Tk 7,480",
+        "availability": "Weekend Only",
+        "includes": [
+          "Premium suite",
+          "Private boat transfer",
+          "Guided waterfall excursion"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "hero": {
+      "eyebrow": "Visual Story",
+      "title": "Gallery",
+      "description": "A visual collection of Kaptai Lake views, Rangamati adventures, and resort moments."
+    },
+    "hint": "Tap any image to open full-screen view"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Guest Relations",
+      "title": "Contact & Location",
+      "description": "Reach our Rangamati reception team for room reservations, lake tours, and private events."
+    },
+    "mapTitle": "Find Us in Rangamati",
+    "mapDescription": "Located beside Kaptai Lake near Reserve Bazar, with easy access by road and private boat.",
+    "phoneLabel": "Reception Phone",
+    "form": {
+      "title": "Quick Inquiry",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Inquiry Message",
+      "button": "Send Inquiry"
+    }
+  },
+  "footer": {
+    "title": "Plan your Rangamati lake retreat today",
+    "description": "Call reception for room selection, activity slots, and local destination guidance.",
+    "button": "Call to Reserve"
+  }
+}

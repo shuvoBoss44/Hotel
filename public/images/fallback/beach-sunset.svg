@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Beach sunset placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f58a4b"/>
+      <stop offset="100%" stop-color="#2f6073"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <circle cx="900" cy="240" r="90" fill="rgba(255,240,190,0.85)"/>
+  <path d="M0 620 C260 560 480 700 760 620 C940 570 1080 640 1200 620 L1200 900 L0 900 Z" fill="rgba(255,255,255,0.24)"/>
+  <text x="80" y="120" fill="white" font-family="Arial, sans-serif" font-size="46" font-weight="700">Beach Sunset</text>
+</svg>

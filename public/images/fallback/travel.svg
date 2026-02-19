@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Travel placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#24596d" />
+      <stop offset="100%" stop-color="#6f9250" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <path d="M0 620 C320 520 500 770 780 620 C1040 480 1270 760 1600 640 L1600 900 L0 900 Z" fill="rgba(255,255,255,0.22)"/>
+  <path d="M100 640 L390 450 L620 640 Z" fill="rgba(0,0,0,0.22)" />
+  <path d="M460 640 L760 410 L1060 640 Z" fill="rgba(0,0,0,0.3)" />
+  <text x="80" y="130" fill="white" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="2">RANGAMATI TRAVEL</text>
+  <text x="80" y="182" fill="rgba(255,255,255,0.86)" font-family="Arial, sans-serif" font-size="24">Local destination placeholder</text>
+</svg>
